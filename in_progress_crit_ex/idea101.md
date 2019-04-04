@@ -15,4 +15,4 @@ Of the phenomenon he created, Scott Fahlman says wearily, “I had no idea that 
 
 - [Documentation of Research](Research.md)
 - [Documentation of Work in Progress](In_Progress.md)
-- [Documentation of Finished_Work Work](Finished_Work.md)
+- [Documentation of Finished Work](Finished_Work.md)
