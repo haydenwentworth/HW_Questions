@@ -13,6 +13,8 @@ When web chat took off in the mid-’90s, emoticons evolved into images. Instant
 
 Of the phenomenon he created, Scott Fahlman says wearily, “I had no idea that I was starting something that would soon pollute all the world’s communication channels.” I like to think that, in his head at least, this statement ends with a smiley face.
 
-- [Documentation of Research](Research.md)
-- [Documentation of Work in Progress](In_Progress.md)
-- [Documentation of Finished Work](Finished_Work.md)
+
+
+![Emoji Portraits](Finished_Work.jpg)
+
+>> Artist Yung Jake draws merges his background as a painter with contemporary internet aesthetics to create portraits produced entirely of emojis.
