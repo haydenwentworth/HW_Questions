@@ -17,4 +17,4 @@ Of the phenomenon he created, Scott Fahlman says wearily, “I had no idea that 
 
 ![Emoji Portraits](Finished_Work.jpg)
 
->> Artist Yung Jake draws merges his background as a painter with contemporary internet aesthetics to create portraits produced entirely of emojis.
+> Artist Yung Jake draws merges his background as a painter with contemporary internet aesthetics to create portraits produced entirely of emojis.
